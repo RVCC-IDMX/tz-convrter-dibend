@@ -2,7 +2,7 @@ const moment = require('moment-timezone');
 const yargs = require('yargs');
 
 if (yargs.argv._[0] === undefined) {
-  console.log('enter timezone as argument 1');
+  console.log('Usage: node tz <timezone> [--format]');
   process.exit(1);
 }
 moment.tz.setDefault('America/New_York');
