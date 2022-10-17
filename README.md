@@ -18,7 +18,7 @@ with your desired timezone
 
 A list of all supported timezones
 
-Africa/Abidjan
+`Africa/Abidjan
 Africa/Accra
 Africa/Addis_Ababa
 Africa/Algiers
@@ -609,4 +609,4 @@ UTC
 Universal
 W-SU
 WET
-Zulu
+Zulu`
